@@ -14,7 +14,7 @@ public class Averageofthree {
         int number3 = sc.nextInt();
         System.out.println("Enter number4: ");
         int number4 = sc.nextInt();
-
+        System.out.println(number1 +"+"+ number2 +"+"+ number3 +"+"+ );
 
 
     }
