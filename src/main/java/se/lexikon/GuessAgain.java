@@ -1,4 +1,5 @@
 package se.lexikon;
 
-public class GuessAgain {
+public class GuessAgain
+{
 }
